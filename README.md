@@ -5,5 +5,5 @@ This repository contains the code for the paper "MS-TIP: Imputation Aware Pedest
 ## <p align="center"><b>The code will be released soon</b></p>
 
 <p align="center">
-<img src="/Learning3_Methods.gif" width="500" height="500"/>
+<img src="/MSTIP.png" />
 <p>
