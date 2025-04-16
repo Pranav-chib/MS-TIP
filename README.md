@@ -50,11 +50,11 @@ We would like to thank the authors of the following repositories for open-sourci
 
 
 ```
-@inproceedings{Chib, Pranav Singh and Singh, Pravendra,
-  title={MS-TIP:Imputation Aware Pedestrian Trajectory Prediction},
-  author={Chib, Pranav Singh and Singh, Pravendra},
-  booktitle={Proc. 40th International Conference on Machine Learning (ICML 2024)},
-  location = {Vienna, Austria},
-  pages={},
-  year={2024}
+@inproceedings{chib2024ms,
+  title={Ms-tip: Imputation aware pedestrian trajectory prediction},
+  author={Chib, Pranav Singh and Nath, Achintya and Kabra, Paritosh and Gupta, Ishu and Singh, Pravendra},
+  booktitle={International Conference on Machine Learning},
+  pages={8389--8402},
+  year={2024},
+  organization={PMLR}
 }
