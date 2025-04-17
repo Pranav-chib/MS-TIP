@@ -11,7 +11,7 @@ This repository contains the code for the paper "MS-TIP: Imputation Aware Pedest
 
 ### Dependencies
 
-Install the dependencies from the `requirements.txt`:
+Install the dependencies:
 ```linux
 conda activate mstip
 ```
